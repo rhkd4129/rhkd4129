@@ -17,8 +17,13 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <br><br> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact" alt="Top Languages">
+<h3>📊GitHub Stats & Most Used Languages📊</h3>
+<div style="margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact" alt="Top Languages">
+</div>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+
 
 
 📌MyBlog📌<br><br> 
