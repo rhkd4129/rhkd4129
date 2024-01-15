@@ -25,5 +25,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-📌MyBlog📌
-<a href="https://blog.naver.com/rhkd4129"><img src="https://img.shields.io/badge/Spring-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+📌MyBlog📌<br>
+<a href="https://blog.naver.com/rhkd4129"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
