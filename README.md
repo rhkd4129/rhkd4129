@@ -1,10 +1,4 @@
-
-
-
-
-
-
-
+<div align="center">
 
 ### 📚 Skills
 <h3>Environment</h3>
@@ -19,7 +13,6 @@
   <h3>Framework</h3>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black"/>
 
-
 <h4> DataBase </h4>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 
@@ -27,3 +20,5 @@
 
 📌MyBlog📌<br>
 <a href="https://blog.naver.com/rhkd4129"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+
+</div>
