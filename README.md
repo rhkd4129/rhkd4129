@@ -20,7 +20,7 @@
 <h3>📊GitHub Stats & Most Used Languages📊</h3>
 
   
-  <img  style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact" alt="Top Languages">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact" alt="Top Languages" style="margin-right: 20px;">
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
 
 <br>
