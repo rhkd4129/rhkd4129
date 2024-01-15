@@ -16,9 +16,10 @@
 <h4> DataBase </h4>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Add margin to the top of the Top Langs section -->
+<img style="margin-top: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact" alt="Top Languages">
 
-📌MyBlog📌<br>
+📌MyBlog📌<br><br>
 <a href="https://blog.naver.com/rhkd4129"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 
 </div>
