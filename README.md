@@ -18,14 +18,12 @@
 
 <br><br> 
 <h3>📊GitHub Stats & Most Used Languages📊</h3>
-<div style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact" alt="Top Languages">
-</div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+  
+  <img  style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact" alt="Top Languages">
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
 
-
-
+<br>
 📌MyBlog📌<br><br> 
 <a href="https://blog.naver.com/rhkd4129"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 
