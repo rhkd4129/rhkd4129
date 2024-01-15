@@ -1,5 +1,11 @@
 <div align="center">
 
+
+Gwanghyeon Lee 😉
+
+ 저는 소프트웨어과에 재학생인 대학생입니다. 곧 2월에 졸업하고 1월초에 중앙정보기술인재개발원에서 교육을 수료하였습니다.
+
+
 ### 📚 Skills
 <h3>Environment</h3>
 
