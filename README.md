@@ -19,9 +19,10 @@
 <br><br> 
 <h3>📊GitHub Stats & Most Used Languages📊</h3>
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact" alt="Top Languages" style="margin-right: 20px;">
+  style="margin-right: 20px;"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkd4129&layout=compact" alt="Top Languages" >
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rhkd4129&show_icons=true&theme=tokyonight)
+
 
 <br>
 📌MyBlog📌<br><br> 
