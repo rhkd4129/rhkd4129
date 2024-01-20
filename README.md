@@ -39,4 +39,9 @@ Gwanghyeon Lee 😉
 📌MyBlog📌<br><br> 
 <a href="https://blog.naver.com/rhkd4129"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 
+
+📌MyPortfolio📌<br><br> 
+<a href="https://blog.naver.com/rhkd4129">portfolio</a>
+
+
 </div>
